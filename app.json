@@ -54,7 +54,7 @@
     },
     "AUTOVIEW_STATUS": {
       "description": "Type true if you want bot to automatically read all status update",
-      "required": false
+      "required": true
     },
 
  "AUTOLIKE_STATUS": {
@@ -70,7 +70,7 @@
 "EVENTS": {
       "description": "choose whether to allow bot to detect events in groups such as promote, demote, remove and add. If set to true bot will send welcome/goodbye messages and signal when somebody is promoted or demoted.",
       "value": "true",
-      "required": true
+      "required": false
     },
 "AUTOBIO": {
       "description": "Type true if you want bot to autoupdate it's bio constantly",

@@ -16,11 +16,11 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/Blackarab-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
-<a href="https://github.com/Blackarab-tech/BEE-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackarab-tech/Arab-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Blackarab-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackarab-tech?color=red&style=flat-square"></a>
+<a href="https://github.com/Blackarab-tech/Bee/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackarab-tech/Arab-v1?color=blue&style=flat-square"></a>
 <a href="https://github.com/Blackarab-tech/Arab-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Blackarab-tech/Arab-v1?color=blue&style=flat-square"></a>
 <a href="https://github.com/Blackarab-tech/Arab-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackarab-tech/Arab-v1?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Blackarab-tech/BEE-v2/"><img title="Size" src="https://img.shields.io/github/repo-size/Blackarab-tech/Arab-v1?style=flat-square&color=green"></a>
+<a href="https://github.com/Blackarab-tech/Bee/"><img title="Size" src="https://img.shields.io/github/repo-size/Blackarab-tech/Arab-v1?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Blackarab-tech %2FArab-v1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Blackarab-tech/Arab-v1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -36,7 +36,7 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 
 
 <p align="left">
-<a href='https://github.com/Blackarab-tech/BEE-v2/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://github.com/Blackarab-tech/Bee/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
 **2. Second Step** (_borrowed session_)
 
@@ -59,7 +59,7 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 
 •Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Blackarab-tech/BEE-v2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Blackarab-tech/Bee' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 **2. Railway**
 
@@ -134,14 +134,6 @@ jobs:
 <a><img
 ***src='https://i.imgur.com/LyHic3i.gif'/>
 
-`✠ HOW TO DEPLOY BUMBLEBEE ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
-
--------------
-
-<p align="center">
-   <a href="https://youtu.be/C2tzcIJujyc?si=he7nPMYub4U48iUV"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
