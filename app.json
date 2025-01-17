@@ -1,5 +1,5 @@
 {
-  "name": "DREADED V2",
+  "name": "🐝𝐁𝐔𝐌𝐁𝐋𝐄 𝐁𝐄𝐄🐝",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -16,16 +16,16 @@
   ],
   "website": "https://github.com/Fortunatusmokaya/dreaded-v2#readme",
   "repository": "https://github.com/Fortunatusmokaya/dreaded-v2.git",
-  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
+  "logo": "https://i.imgur.com/KUUYRbq.jpeg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "choose your prefix for dreaded. To prevent errors and confusion you must set a prefix",
+      "description": "choose your prefix for bee. To prevent errors and confusion you must set a prefix",
       "value": ".",
       "required": true
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254741889898 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254712267225, 254741889898 ",
       "required": false
     },
     "CODE": {

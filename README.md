@@ -1,146 +1,201 @@
- ***DREADED-V2***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<div align="center">
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=BUMBLE+BEE;MADE+BY+MALIBU+KING" alt="Typing SVG" /></a>
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
-|----|
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+<img align="center" height="auto"
+src="https://i.imgur.com/LyHic3i.gif?"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=HOLLA+WELCOME+TO+THIS+REPO!)](https://git.io/typing-svg)
+<br>
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR)](https://git.io/typing-svg)
+   </p>
+<p align="center">
+<a href="https://github.com/Blackarab-tech"><img title="Author" src="https://img.shields.io/badge/Blackarab-tech-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malibu"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254712267225"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<p/> 
 
----
-
-> [CAUTION]
-
-> This bot is not created nor endorsed by WhatsApp. Your account might be banned. Be careful not to cause spam.
-
----
-
-
-## FEATURES
-`This bot is a modification of the predecessor ***`dreaded-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
-
- `Some AI and media commands use our API. This API is not very reliable hence sometimes there may be a downtime.`
-
- `If you are a developer you can check out our`  [`API SITE`](https://api.dreaded.site).
-
- `The API site contains many endpoints that can be used in your projects. No need for API keys or login, completely free, for now`
-
-## SET-UP
-
-## Fork
-
-<h2 align="center">   
-
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Fortunatusmokaya/dreaded-v2/fork)***
-
-
-## Pairing:
-
-
-- ***`Get your Session Id` by  [`PAIRING CODE HERE`](https://pair.dreaded.site). `or` [`HERE`](https://pair.dreaded.site).***
+ <p align="center">
+<a href="https://github.com/Blackarab-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
+<a href="https://github.com/Blackarab-tech/BEE-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackarab-tech/Arab-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Blackarab-tech/Arab-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Blackarab-tech/Arab-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Blackarab-tech/Arab-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackarab-tech/Arab-v1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Blackarab-tech/BEE-v2/"><img title="Size" src="https://img.shields.io/github/repo-size/Blackarab-tech/Arab-v1?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Blackarab-tech %2FArab-v1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Blackarab-tech/Arab-v1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
+<a><img src='https://i.imgur.com/KUUYRbq.jpeg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
-- Then `Go-to WhatsApp > Three dots > Linked Devices`
-   - You will get a session ID in your WhatsApp. Copy it.
+**How to deploy**
 
-## Heroku Setup:
+**1. First step**
 
-   - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
-
-
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-v2).***
-
--***`Fill in all the required variables and deploy the bot.`***
-
--***`If you plan to host the bot in your server, vps, locally or panel you can carefully edit the file settings.js and add the session id in the session constant (if you know what that is), or you can still autheticate with qr`***
-
-
-
-## FOR TERMUX/UBUNTU/SSH VPS DEPLOY
-- Copy/Paste to your terminal
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-git clone https://github.com/Fortunatusmokaya/dreaded-v2
-cd dreaded-v2
-npm install
-```
-## START BOT
-
-```bash
-
-npm start
-```
-
- ***`The bot will only work if you updated the session id in settings.js`***
-
-## BACKGROUND RUNNING
-
-```bash
-npm install pm2 -g
-pm2 start index.js
-```
- ***`This will allow bot to run in the background even when the vps terminal is closed, for termux you'll need a stable device with continuous internet connection`***
-
-## STOPPING BOT
-
-_CTRL + C_
-
-
-
-
-
-# Credits
-
-Thanks to...
-
-<div align="center">
-
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
-|----|
-* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
-
-
-* [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
-
-
-
-* [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
-* [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
-* [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
-
-
-
----
-
-***Tap the WhatsApp logo below to join our channel and group for updates***
 
 <p align="left">
-  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VaeZVGaFsn0Yr8xSAM35" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<a href='https://github.com/Blackarab-tech/BEE-v2/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+   
+**2. Second Step** (_borrowed session_)
 
 <p align="left">
-  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/HPik6o5GenqDBCosvXW3oe" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<a href='https://bumblebee-qr.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp.
-
-Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-## License
+**3.Third Step**
 
-[MIT License](https://github.com/Fortunatusmokaya/dreaded-v2/blob/main/LICENSE)
+**Deploy to any hosting of ur choice**
 
-Copyright (c) 2024 DREADED-V2
+**1.Heroku**
+
+•If you don't have an account in Heroku, create one.
+   <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+•Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Blackarab-tech/BEE-v2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+**2. Railway**
+
+<p align="left">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-purple?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+   
+**3. Render**
+
+<p align="left">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
 
 
+
+**4. Replit**
+
+<p align="left">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
+   
+**5. Github Workflow**
+
+
+ --------
+ <h4 align="center">5. Workflow</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+<details>
+
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
+
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+</details> 
+<a><img
+***src='https://i.imgur.com/LyHic3i.gif'/>
+
+`✠ HOW TO DEPLOY BUMBLEBEE ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+
+-------------
+
+<p align="center">
+   <a href="https://youtu.be/C2tzcIJujyc?si=he7nPMYub4U48iUV"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+
+ ### <br> ❖ FOR SUPPORT ❖
+
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME VIA WHATSAPP ITS ME Malvin ✠ King࿐➺`**
+
+-------
+
+<p align="center">
+  <a href="https://wa.me/+254712267225?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+bumble-bee+ʀᴇᴘᴏ!!*" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>  
+----------    
+
+`✠ IF YOU WANT MORE ABOUT BUMBLEBEE WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+
+---------
+
+<a href="https://chat.whatsapp.com/CNZlSoRwP1eFOte9SvJFkD"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+-----------
+
+`✠ IF YOU WANT MORE ABOUT BUMBLEBEE WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+
+----------
+
+<a href="https://youtube.com/@malibu"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+
+***
+<h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  <strong>NB 🚫</strong><br>
+   
+_I’m not responsible for you messing around and getting your account banned. As long as you don’t modify the source code to fit your idiotic needs, you’re fine. But seriously, don’t go spamming others. I’m tired of repeating this._
+</p>
+    
+***
+
+</div>
+
+
+
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USIN+BUMBLE+BEE" alt="Typing SVG" /></a>
+
+
+***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
+
+<p align="center">
+  <a href="https://wa.me/+254712267225?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+bumble-bee+ʀᴇᴘᴏ!!*" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -black?style=for-the-badge&logo=whatsapp&logoColor=white" />
